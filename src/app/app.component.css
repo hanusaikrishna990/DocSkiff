@@ -1,0 +1,21 @@
+.textareaclass{
+    width: 350px;
+    height:40px;
+    /* border:1px solid black; */
+}
+
+#mainDiv{
+    width: 350px;
+    height:90px;
+    border:1px solid black;
+}
+
+#showDiv{
+    width: 350px;
+    margin-bottom: 10px;
+    height:40px;
+}
+
+div#contentWriter:focus-visible {
+    outline: none;
+}
